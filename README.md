@@ -1,1 +1,1 @@
-This folder contains my implementation of Numerical Analysis algorithms from College classes.
+Within this folder, you'll find my implementations of Numerical Analysis algorithms that I studied in college.
